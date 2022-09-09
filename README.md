@@ -1,13 +1,11 @@
-👋  Isa ^^ 
 
+# <h1 align="center">Hi, I'm <a href="https://github.com/IsabelViana">Isa<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 📌 BÁSICO: PHP, C, JAVA
 
 📌 INTERMEDIÁRIO: PYTHON, SQL, GIT
 
 📌 APRENDENDO: HTML, CSS e JS
-
-
-### 👀 Oie 
+ 
 
 # Aqui estão algumas formas de personalização rápida para a sua pagina do Readme
 
@@ -34,10 +32,8 @@ Aqui está o exemplo abaixo. Coloque o seu nome de usuário do GitHub.
 
 
  [![ nome do badge ] (URLdobadge)] 
-
-
-### Pode também usar hmtl criando uma div 
-
+ 
+### Ou criar uma div
 
 < div style="display: inline_block">
 
