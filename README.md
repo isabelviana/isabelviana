@@ -24,7 +24,7 @@ Aqui está o exemplo abaixo. Coloque o seu nome de usuário do GitHub.
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelviana&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelviana&show_icons=true&theme=jolly&count_private=true)
 
 
 
