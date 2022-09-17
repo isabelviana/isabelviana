@@ -1,8 +1,5 @@
 
 # <h1 align="center">Hi, I'm <a href="https://github.com/IsabelViana">Isa<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
-📌 BÁSICO: PHP, C, JAVA
-
-📌 INTERMEDIÁRIO: PYTHON, SQL, GIT
 
 📌 APRENDENDO: HTML, CSS e JS
  
