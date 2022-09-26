@@ -2,6 +2,8 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/IsabelViana">Isa<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 📌 APRENDENDO: HTML, CSS e JS
+
+Se quiser trocar ideias, estou sempre disponível 
  
 
 # Aqui estão algumas formas de personalização rápida para a sua pagina do Readme
